@@ -1,2 +1,2 @@
 # gitlesson
-descrizione gitlesson modificata da github
+modifico README in locale
